@@ -1,0 +1,23 @@
+h1{
+	text-align: center;
+	padding: 30px 10px 30px 10px;
+}
+h2{
+text-align: center;
+padding: 10px 20px 10px 10px;
+background-color: red;
+}
+.container{
+	margin: 30px;
+}
+#chicken, #sushi, #beef {
+	width: 100px;
+	position:  relative;
+	left: 90%;
+
+}
+.col-4 {
+	border-width: 20px;
+	border-color: black;
+	background-color: lightgrey;
+}
